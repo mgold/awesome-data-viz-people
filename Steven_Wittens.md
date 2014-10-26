@@ -17,11 +17,12 @@ with a little bit of Python, Ruby or C/C++ on the side."
 * Pioneering animation for mathematics and design
 * Integrating images and animations into essays
 * [acko.net](http://acko.net/)'s banner:
+![acko - Hackery, Math, and Design - Steven Wittens ](https://cloud.githubusercontent.com/assets/1191970/4781587/7422b4e2-5cad-11e4-82e1-86e23972c7d0.png)
 
 ## Works
 
-* [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/), 2013
-* [Animate Your Way to Glory](http://acko.net/blog/animate-your-way-to-glory/), 2013
+* _[How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/)_, 2013
+* _[Animate Your Way to Glory](http://acko.net/blog/animate-your-way-to-glory/)_, 2013
 * [MathBox.js](https://github.com/unconed/MathBox.js), 2012 with ongoing development
 
 ## Contact
