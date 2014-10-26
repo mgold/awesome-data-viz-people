@@ -3,10 +3,12 @@ Compiled by Max Goldstein
 Licensed CC BY-NC
 
 This is meant to be a reference guide to key figures in data visualization,
-information design, business intelligence, and related fields. It is done
-wholly unscientifically and without value judgement. I'm doing this so I can
-better keep track of all of these people so that I can better understand the
-field, its differences of opinion, and where it is going.
+information design, business intelligence, and related fields. There is some
+overlap into visual explanations, user-interface design, animation, and dynamic
+images generally. It is done wholly unscientifically and without value
+judgement. I'm doing this so I can better keep track of all of these people so
+that I can better understand the field, its differences of opinion, and where
+it is going.
 
 At the moment, everything is in Markdown. At some point I may try to add
 numeric data and do some analytics, but those will only be as good as the data
