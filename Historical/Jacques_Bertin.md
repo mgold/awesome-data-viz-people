@@ -8,6 +8,10 @@ dimensions of visual shapes that can be perceived quantitatively and
 qualitatively. These include size, color, orientation, and shape. Many of his
 ideas would be reinvented decades later.
 
+Bertin saw information graphics as a serious and intellectual affair. He held
+that their value stemmed from their "double function as a storage mechanism and
+a research instrument".
+
 ## Known for
 * Creating a grammar of visual symbols
 * Classifying data into taxonomies that suggested visualizations
