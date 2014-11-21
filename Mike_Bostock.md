@@ -16,6 +16,7 @@ employer, The New York Times.
 
 * [D3](http://d3js.org/)
 * _[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)_, 2014
+* _[The Toolmaker's Guide](http://vimeo.com/106198518)_, FOSS4G 2014 (1hr keynote)
 
 ## Contact
 
