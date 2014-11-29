@@ -2,7 +2,9 @@
 
 **Mike Bostock** is the creator of D3 (Data Driven Documents), the current
 state-of-the-art tool in data visualization. D3 (both the library and custom
-code) is written in JavaScript and runs in the browser.
+visualization code) is written in JavaScript and runs in the browser. Bostock
+is highly knowledgeable about programming and cartography. He has written many
+essays explaining and exploring D3 concepts in detail.
 
 Bostock is active in D3's development and produces visualizations for his
 employer, The New York Times.
@@ -11,6 +13,7 @@ employer, The New York Times.
 * D3
 * TopoJSON (map data format)
 * Graphics published by The New York Times
+* Tools possess only extrinsic value
 
 ## Works
 

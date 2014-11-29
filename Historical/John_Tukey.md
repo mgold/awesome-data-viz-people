@@ -3,8 +3,10 @@
 **John Tukey** (1915-2000) was a statistician at Bell Labs. He pioneered
 "exploratory data analysis" (the title of his book), invented the box plot,
 coined the term "bit", and devised the first efficient algorithm for the
-Fourier transform. His Prim-9 computer allowed the viewing, rotating,
-isolation, and masking of multidimensionsal data.
+Fourier transform. He helped shift the field of statistics away from hypothesis
+testing and towards discovery of new trends and information. His Prim-9
+computer allowed the viewing, rotating, isolation, and masking of
+multidimensionsal data.
 
 ## Known for
 * Key figure in 20th century statistics

@@ -2,10 +2,12 @@
 
 **Nathan Yau** is a data scientist and author. His style is often tutorial,
 using Python and R to obtain, analyze, and visualize data (and D3 on the web).
-His topics are often drawn from day-to-day society, e.g [miles to nearest
+He makes these tools more accessible to designers without programming
+backgrounds. His topics are often drawn from day-to-day society, e.g [miles to
+nearest
 casino](http://flowingdata.com/2014/08/13/get-me-to-the-nearest-casino/) or
 [multivariate beer](http://flowingdata.com/2014/10/02/multivariate-beer/). He
-operates under the brand name **FlowingData**. He is unafraid to use an
+operates under the brand name _FlowingData_ He is unafraid to use an
 unconventional visual encoding, and has produced many variants of geospatial
 maps.
 

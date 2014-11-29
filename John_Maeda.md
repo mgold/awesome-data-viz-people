@@ -6,7 +6,7 @@ leadership. His design ethos seeks to encompass a holistic view, not only of the
 product, but also of the user. His advice is often abstract yet demanding.
 
 Formerly the president of the Rhode Island School of Design, Maeda [now
-works](http://www.fastcodesign.com/3023047/) at a venture captial firm.
+works](http://www.fastcodesign.com/3023047/) at a venture capital firm.
 
 ## Known for
 * Simplicity and Leadership

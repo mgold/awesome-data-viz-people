@@ -4,7 +4,8 @@
 are characteristically dense, required (and rewarding) several minutes of study
 or interaction to fully appreciate. Much of McCandless's work is visually
 intricate with radial and area encodings. His topics are often ones of
-contemporary social relevance.
+contemporary social relevance. His work attempts to transform data into
+information into knowledge.
 
 McCandless lives in London and writes for _The Guardian_.
 
@@ -21,7 +22,8 @@ Selected visualizations:
 * Snake Oil [Superfoods](http://www.informationisbeautiful.net/visualizations/snake-oil-superfoods/) and [Supplements](http://www.informationisbeautiful.net/play/snake-oil-supplements/)
 
 ## Contact
-* [informationIsBeautiful.net](http://www.informationisbeautiful.net/)
 * [davidmccandless.com](http://www.davidmccandless.com/)
-* [@infobeautiful](https://twitter.com/infobeautiful)
 * [@mccandelish](https://twitter.com/mccandelish)
+
+* [informationIsBeautiful.net](http://www.informationisbeautiful.net/)
+* [@infobeautiful](https://twitter.com/infobeautiful)
