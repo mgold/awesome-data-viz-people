@@ -16,7 +16,7 @@ works](http://www.fastcodesign.com/3023047/) at a venture capital firm.
 
 ## Works
 * _The Laws of Simplicity_, 2006
-* _Redesigning Leadership_, 2001
+* _Redesigning Leadership_, 2011
 * Three [TED talks](http://www.ted.com/speakers/john_maeda)
 
 ## Contact
