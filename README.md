@@ -1,4 +1,5 @@
-# A Who's Who of Information Graphics
+# Awesome Data Visualization People
+**A Who's Who of Information Graphics**  
 Compiled by Max Goldstein  
 Licensed CC BY-NC
 
