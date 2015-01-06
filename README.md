@@ -75,5 +75,4 @@ _* = I haven't read this yet, take recommendation with a grain of salt_
 
 ## And a Big See Also to
 * Alberto Cairo's [recommended resources](http://www.thefunctionalart.com/2012/10/recommended-readings-for-infographics.html)
-* [IEEE VIS](http://ieeevis.org/)_
-
+* [IEEE VIS](http://ieeevis.org/)
