@@ -42,6 +42,7 @@ _In no particular order_
 _See also: [Ian Johnson's Algovis list](https://github.com/enjalot/algovis/blob/master/README.md)_
 
 * [Bret Victor](Profiles/Bret_Victor.md)'s entire [website](http://worrydream.com/) (he [named the section](http://worrydream.com/ExplorableExplanations/))
+* [Mike Bostock](Profiles/Mike_Bostock.md)'s _[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)_ (don't miss the [related work](http://bost.ocks.org/mike/algorithms/#related-work))
 * Vi Hart and Nicky Case's _[Parable of the Polygons](http://ncase.me/polygons/)_
 * Toby Schachman's [ShaderShop](http://tobyschachman.com/Shadershop/)
 * Amit Patel's blog, [Red Blob Games](http://www.redblobgames.com/)
@@ -54,6 +55,7 @@ _How people learn, communicate, and act._
 * [John Maeda](Profiles/John_Maeda.md), including _The Laws of Simplicity_
 * Daniel Kahneman, _Thinking, Fast and Slow_ *
 * Daniel J. Levitin, _The Organized Mind_ *
+
 _* = I haven't read this yet, take recommendation with a grain of salt_
 
 ## Historical
@@ -66,7 +68,7 @@ _* = I haven't read this yet, take recommendation with a grain of salt_
 ## Practitioner Bloggers
 * Enrico Bertini, [Fell In Love With Data](http://fellinlovewithdata.com/)
 * Moritz Stefaner, [Truth & Beauty](http://truth-and-beauty.net/)
-* * Bertini and Stefaner host the podcast [Data Stories](http://datastori.es/)
+  * Bertini and Stefaner host the podcast [Data Stories](http://datastori.es/)
 * Andy Cotgreave, [Gravy Anecdote](http://gravyanecdote.com/)
 * Andy Kirk, [Visualizing Data](http://www.visualisingdata.com/)
 * Christophe Viau, [Biovisualize](http://www.biovisualize.com/)
