@@ -1,6 +1,6 @@
 # Charles Joseph Minard
 
-**Charles Joseph Minard** (1781 - 1870) was a French civil engineer famous for 
+**Charles Joseph Minard** (1781-1870) was a French civil engineer famous for 
 his information graphic of Napoleon's losses in Russia. Published 1869, it was 
 the last of his 51 "figurative maps". [Edward Tufte](../Edward_Tufte.md) says
 that it "may well be the best statistical graphic ever drawn" and studies it

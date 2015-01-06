@@ -1,36 +1,61 @@
 # Awesome Data Visualization People
-**A Who's Who of Information Graphics**  
-Compiled by Max Goldstein  
-Licensed CC BY-NC
+Awesome people in data visualization, information design, business
+intelligence, visual explanations, user-interface design, animation, and
+dynamic images generally. It's admittedly broadly-scoped and unscientific. Some
+of the key individuals have more detailed profiles.
 
-This is meant to be a reference guide to key figures in data visualization,
-information design, business intelligence, and related fields. There is some
-overlap into visual explanations, user-interface design, animation, and dynamic
-images generally. It is done wholly unscientifically and without value
-judgement. I'm doing this so I can better keep track of all of these people and
-thereby better understand these fields, its differences of opinion, and where
-it is going. We're at a unique point in the history of these fields, where many
-good ideas are available but not yet universally adopted.
+Compiled by Max Goldstein. Licensed CC BY-NC. Contributions welcome!
 
-At the moment, everything is in Markdown. At some point I may try to add
-numeric data and do some analytics, but those will only be as good as the data
-they are built on.
+## The Must-Reads
+* [Edward Tufte](Profiles/Edward_Tufte.md)'s quartet
+* [Stephen Few](Profiles/Stephen_Few.md)'s triplets
+* [Alberto Cairo](Profiles/Alberto_Cairo.md)'s _The Functional Art_
+* [Bret Victor](Profiles/Bret_Victor.md)'s _[Magic Ink](http://worrydream.com/MagicInk/)_
 
-This listing is hardly comprehensive, and still won't be once I get through my
-list of people to add. As you can see by [this list of
-resources](http://www.thefunctionalart.com/2012/10/recommended-readings-for-infographics.html),
-there's a lot more written on the subject than I can summarize. That's where
-you come in:
+## Authors and Speakers
+* [Nathan Yau](Profiles/Nathan_Yau.md)
+* [Manuel Lima](Profiles/Manuel_Lima.md)
+* Santiago Ortiz
+* [Hans Rosling](Profiles/Hans_Rosling.md)
+* Scott Murray
+* Nigel Holmes
+* [David McCandless](Profiles/David_McCandless.md)
+* [William Cleveland](Profiles/William_Cleveland.md)
 
-## Can I help?
+## Academics
+* Ben Shneiderman ("Overview first, zoom and filter, then details-on-demand")
+* [Colin Ware](Profiles/Colin_Ware.md)
+_...And anyone who has published a paper at [IEEE VIS](http://ieeevis.org/)_
 
-Sure! You are welcome to use pull requests or issues to correct any factual
-errors, expand on the difficult-to-write descriptive paragraphs, or add new
-relevant people. Just follow the existing pages for style consistency. You can
-also suggest other types of information I should be keeping.
+## Toolmakers
+> A tool addresses **human needs** by amplifying **human capabilities**. – Bret Victor
+* [Mike Bostock](Profiles/Mike_Bostock.md) and Jason Davies (D3)
+* [Steven Wittens](Profiles/Steven_Wittens.md) (MathBox)
+* Casey Reas and Benjamin Fry (Processing)
+* John Resig (jQuery, Processing.js)
 
-If you think that I have described someone (or yourself) unfairly, please open
-an issue and I will alter or remove the material quickly. This project is
-compiled with the utmost respect for everyone profiled; I have something
-to learn from all of them.
+## Explorable Explanations
+_See also: [enjalot/algovis](https://github.com/enjalot/algovis/blob/master/README.md)_
+* [Bret Victor](Profiles/Bret_Victor.md)'s entire [website](http://worrydream.com/) (he [named the section](http://worrydream.com/ExplorableExplanations/))
+* Vi Hart and Nicky Case's _[Parable of the Polygons](http://ncase.me/polygons/)_
+* Toby Schachman's [ShaderShop](http://tobyschachman.com/Shadershop/)
+* Amit Patel's blog, [Red Blob Games](http://www.redblobgames.com/)
+* Victor Powel and Lewis Lehe's blog, [setosa.io](setosa.io)
 
+## Related Field Awesomeness
+_How humans learn and act_
+* Seymour Papert, _Mindstorms_
+* Don Norman, including _The Design of Everyday Things_
+* [John Maeda](Profiles/John_Maeda.md), including _The Laws of Simplicity_
+
+## Historical
+* [William_Playfair.md](Profiles/Historical/William_Playfair.md) (1759-1823)
+* [Charles_Joseph_Minard](Profiles/Historical/Charles_Joseph_Minard.md) (1781 - 1870)
+* [John_Tukey.md](Profiles/Historical/John_Tukey.md) (1915-2000)
+* [Jacques_Bertin.md](Profiles/Historical/Jacques_Bertin.md) (1919-2010)
+* [Douglas_Engelbart.md](Profiles/Historical/Douglas_Engelbart.md) (1925-2013)
+
+## Practitioners
+* Andy Cotgreave
+* Andy Kirk
+* Christophe Viau
